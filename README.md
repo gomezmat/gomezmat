@@ -1,16 +1,15 @@
-### Hi there 👋
+# console.log("Hello World!")
 
-<!--
-**RusoMateo/RusoMateo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi! I'm Mateo. — Software student based in Montevideo, Uruguay
 
-Here are some ideas to get you started:
+- 📚 Studying in @HackAcademy
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🚀 About Me
+- 💪 - Turning into a Full Stack Developer.
+- 💻 - Some technologies I enjoy working with include JavaScript, Node.js, React, etc.
+- 🎨 - Loving the websites creations.
+
+## Find me around the web 🌍
+- 👉 Sharing my projects on [Netlify](https://app.netlify.com/teams/mateogomez1718/sites)
+- 👉 Sharing updates on [LinkedIn](https://www.linkedin.com/in/mateo-g%C3%B3mez-7a40b722b/)
