@@ -2,7 +2,7 @@
 
 👋 Hi! I'm Mateo. — Software Development student based in Montevideo, Uruguay
 
-- 📚 Studying in [Hack Academy](https://ha.dev/)
+- 📚 Studying at [Hack Academy](https://ha.dev/)
 
 
 ## 🚀 About Me
