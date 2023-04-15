@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 - 💪 - Turning into a Full Stack Developer
-- 💻 - Some technologies I enjoy working with include JavaScript, Node.js, React, etc
+- 💻 - Some technologies I enjoy working with include HTML, CSS, JavaScript, Node.js, React, etc
 - 🎨 - Loving the websites creations
 
 ## 🌍 Find me around the web 
