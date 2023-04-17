@@ -8,7 +8,7 @@
 ## 🚀 About Me
 - 💪 - Turning into a Full Stack Developer
 - 💻 - Some technologies I enjoy working with include HTML, CSS, JavaScript, Node.js, React, etc
-- 🎨 - Loving the websites creations
+- 🎨 - Loving the website creations
 
 ## 🌍 Find me around the web 
 - 👉 Sharing some of my projects on [Netlify](https://app.netlify.com/teams/mateogomez1718/sites)
