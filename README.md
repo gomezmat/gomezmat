@@ -1,9 +1,8 @@
 # console.log("Hello World!")
 
-👋 Hi! I'm Mateo — Software Development student based in Montevideo, Uruguay.
+👋 Hi! I'm Mateo — Full Stack Developer based in Montevideo, Uruguay.
 
-- 📚 Studying at [Hack Academy](https://ha.dev/).
-
+- 📚 Graduated from [Hack Academy](https://ha.dev/).
 
 ## 🚀 About Me
 - 💪 - Turning into a Full Stack Developer
