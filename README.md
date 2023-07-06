@@ -10,5 +10,5 @@
 - 🎨 - Loving the website creations
 
 ## 🌍 Find me around the web 
-- 👉 Sharing updates on [LinkedIn](https://www.linkedin.com/in/mateo-g%C3%B3mez-7a40b722b/)
+- 👉 Sharing updates on [LinkedIn](https://www.linkedin.com/in/mateo-g%C3%B3mez-mello/)
 - 👉 Contact me by e-mail ✉️ mateogomez1718@gmail.com
