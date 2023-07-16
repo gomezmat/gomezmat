@@ -7,7 +7,7 @@
 ## 🚀 About Me
 - 💪 - Turning into a Full Stack Developer
 - 💻 - Some technologies I enjoy working with include HTML, CSS, JavaScript, Node.js, React, MongoDB and MySQL
-- 🎨 - Loving the website creations
+- 🎨 - Loving the website creation
 
 ## 🌍 Find me around the web 
 - 👉 Sharing updates on [LinkedIn](https://www.linkedin.com/in/mateo-g%C3%B3mez-mello/)
