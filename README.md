@@ -2,7 +2,7 @@
 
 👋 Hi! I'm Mateo — Full Stack Developer based in Montevideo, Uruguay.
 
-- 📚 Graduated from [Hack Academy](https://ha.dev/).
+- 📚 Software Developer & Coding Instructor at [Hack Academy](https://ha.dev/).
 
 ## 🚀 About Me
 - 💪 - Turning into a Full Stack Developer
