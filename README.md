@@ -5,7 +5,7 @@
 - 📚 Software Developer & Coding Instructor at [Hack Academy](https://ha.dev/).
 
 ## 🚀 About Me
-- 💪 - Turning into a Full Stack Developer
+- 💪 - Full Stack Developer
 - 💻 - Some technologies I enjoy working with include HTML, CSS, JavaScript, Node.js, React, MongoDB and MySQL
 - 🎨 - Loving the website creation
 
